@@ -6,7 +6,7 @@ Predicting house prices is a crucial task in real estate and financial planning.
 ## 1. Problem Statement
 Predicting house prices based on various features such as the number of rooms, house size, location, and other related factors. House price prediction is important for real estate investors, buyers, sellers, and financial institutions to make informed decisions.
 
-Please refer to the [Data Analysis (House).ipynb](https://github.com/xiaozhu1110/House-Prices-Regression/blob/main/Data%20Analysis%20(House).ipynb) for code.
+Please refer to the [Data Analysis (House).ipynb](https://nbviewer.org/github/xiaozhu1110/House-Prices-Regression/blob/main/Data%20Analysis%20%28House%29.ipynb) for code.
 
 ## 2. Data Description
 The dataset is obtained from the Kaggle Housing Prices Competition.
