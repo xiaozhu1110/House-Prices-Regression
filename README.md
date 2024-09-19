@@ -73,7 +73,7 @@ The table below summarizes the best parameters found during the grid search for 
 
 The chart below visualizes the performance of each model in terms of RMSE:
 
-![Model RMSE Comparison](path_to_image)
+![Model RMSE Comparison](https://github.com/xiaozhu1110/House-Prices-Regression/blob/main/Model%20RMSE%20Comparison.png)
 
 #### Interpretation:
 - **XGBoost** achieved the best performance with the lowest RMSE of **0.1340**, indicating that it is the most accurate individual model for this problem.
