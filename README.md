@@ -87,7 +87,7 @@ The chart below visualizes the performance of each model in terms of RMSE:
 
 ### 3. Code Snippet
 
-If you'd like to try out the models and reproduce the results, here's a Python code snippet that trains the models using a stacked ensemble:
+This is the Python code snippet that is used to train the models using a stacked ensemble:
 
 ```python
 from sklearn.ensemble import StackingRegressor
